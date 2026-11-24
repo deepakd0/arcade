@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Brick Box 12-in-1",
+    "tagline": "A 1990s-style LCD brick-game handheld with 12 games",
+    "description": "Falling blocks, lane racing, tank duels, snake, frog crossing, brick breaker, shooters and a pattern copy game on a 10x20 dot screen. Speed and level 1-10, hi-scores and beeps.",
+    "genre": "Retro handheld",
+    "platforms": "Laptop (keyboard), phone (touch, installable, offline)",
+    "play": [
+      { "label": "Play on laptop", "url": "https://deepakd0.github.io/brick-box/laptop.html" },
+      { "label": "Play on phone", "url": "https://deepakd0.github.io/brick-box/phone.html" }
+    ],
+    "source": "https://github.com/deepakd0/brick-box",
+    "accent": "#e8c23a"
+  },
+  {
+    "name": "Rotor Storm",
+    "tagline": "Helicopter action arcade game",
+    "description": "Fly, gun, rocket and winch through story missions across a desert warzone, then hold out in endless Last Stand.",
+    "genre": "Arcade action",
+    "platforms": "Keyboard and mouse, touch, gamepad",
+    "play": [
+      { "label": "Play", "url": "https://snowy-leaf-322.higgsfield.gg/" }
+    ],
+    "source": null,
+    "accent": "#3498db"
+  }
+]
