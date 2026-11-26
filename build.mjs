@@ -23,6 +23,10 @@ ${g.description}
 - **Play:** ${g.play.map((p) => `[${p.label}](${p.url})`).join(' · ')}
 - **Source:** ${g.source ? g.source : 'private'}
 `).join('\n')}
+
+## Copyright
+
+© 2026 Deepak Dobariyal. All rights reserved. The games may be played in a browser. Copying, modifying, re-hosting or redistributing any game, code or art, or presenting it as your own, is not allowed without written permission. See [LICENSE](LICENSE).
 ---
 Adding a game: add an entry to \`games.json\`, run \`node build.mjs\`, commit.
 `;
@@ -67,6 +71,7 @@ const html = `<!DOCTYPE html>
     <h1>Arcade</h1>
     <p class="tagline">Browser games. Free to play, no sign-up.</p>
 ${cards}
+    <p class="meta" style="margin-top:32px">&copy; 2026 Deepak Dobariyal. All rights reserved. No copying, reuse or redistribution without written permission. See <a href="LICENSE" style="color:inherit">LICENSE</a>.</p>
   </main>
 </body>
 </html>

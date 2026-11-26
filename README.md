@@ -27,5 +27,9 @@ Fly, gun, rocket and winch through story missions across a desert warzone, then 
 - **Play:** [Play](https://snowy-leaf-322.higgsfield.gg/)
 - **Source:** private
 
+
+## Copyright
+
+© 2026 Deepak Dobariyal. All rights reserved. The games may be played in a browser. Copying, modifying, re-hosting or redistributing any game, code or art, or presenting it as your own, is not allowed without written permission. See [LICENSE](LICENSE).
 ---
 Adding a game: add an entry to `games.json`, run `node build.mjs`, commit.
